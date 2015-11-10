@@ -1,10 +1,17 @@
-# sublime-text-2
-"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+{
+	"theme": "Flatland Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"draw_white_space": "all",
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Theme - Afterglow",
 		"Vintage"
 	],
-	"theme": "Flatland Dark.sublime-theme"
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"prefix": "_",
+	"tags": ["@private"]
+}
