@@ -26,5 +26,8 @@
 	[
 		"@private"
 	],
-	"theme": "Flatland Dark.sublime-theme"
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"telex": true
 }
